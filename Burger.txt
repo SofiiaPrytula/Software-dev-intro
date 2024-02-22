@@ -1,0 +1,23 @@
+function makeBurger (ingredient1, ingredient2, ingredient3, ingredient4, ingredient5) {
+
+		Burger = ingredient1 + ingredient2 + ingredient3 + ingredient4 + ingredient5
+		Return Burger}
+
+MakeBurger("bun", "beef", "cheese", "ketchup", "bun")
+MakeBurger("bun", "chicken", "mayonese", "lettuce", "bun")
+
+func makeSide (ingredient1,ingredient2) {
+
+		Side = ingredient1 + ingredient2 
+		return Side}
+MakeSide("fries", "salt")
+MakeSide("veggies", "oil")
+
+func makeDrink (flavour, size) {
+
+		Drink = flavour + size
+		return drink}
+
+MakeDrink ("coke", "medium")
+
+
